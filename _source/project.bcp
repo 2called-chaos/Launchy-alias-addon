@@ -1,0 +1,13 @@
+MAINFILE Launchy_alias_addon.php
+OUTFILE ../launchy_alias_addon.exe
+
+DESTINATION /
+EMBED src/Launchy_alias_addon.php
+EMBED src/aliases.ini
+EMBED src/readcmd.inc
+EMBED src/pipe_handling.inc
+EMBED src/help.inc
+EMBED src/wait.inc
+EMBED src/parse.inc
+EMBED src/handle_request.inc
+EMBED src/backup.inc

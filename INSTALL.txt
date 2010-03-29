@@ -1,0 +1,3 @@
+Extract the Launchy_alias_addon.exe to any location you want. Make a link to this file in directory which is monitored by Launchy.
+Then press you Launchy hotkey and enter the link name, press tab and then type |help or edit you aliases.conf with |aliases.
+e.g.: [ALT]+[SPACE] => link [TAB] => |help => [ENTER]
