@@ -1,3 +1,7 @@
+###########################################
+### This Project is inactive for years! ###
+###########################################
+
 This tool is easy to use (if you have Launchy (www.launchy.net) installed)
 Simply make a link to the executable in a directory which is monitored by Launchy ("do" in this example).
 
